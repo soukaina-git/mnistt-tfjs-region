@@ -1,0 +1,23 @@
+{
+  "name": "mnist",
+  "version": "1.0.0",
+  "description": "hands writing digit recognition",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mnist",
+    "heroku"
+  ],
+  "author": "Lahrach-oubari",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  },
+  "engines": {
+    "node": "16.13.1"
+  }
+}
